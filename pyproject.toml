@@ -5,7 +5,9 @@ description = "Add your description here"
 authors = [
     { name = "tacotaco0808", email = "takuto1488@gmail.com" }
 ]
-dependencies = []
+dependencies = [
+    "pywin32>=309",
+]
 readme = "README.md"
 requires-python = ">= 3.8"
 
